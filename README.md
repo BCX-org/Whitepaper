@@ -1,0 +1,2 @@
+# Whitepaper
+Bitcoin Classic (BCX)

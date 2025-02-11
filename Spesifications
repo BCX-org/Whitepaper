@@ -12,8 +12,9 @@ Governance : BCX holders can participate in decision-making regarding the develo
 
 TECHNICAL SPECIFICATIONS :
 Total Supply : 21,000,000 BCX
-Decimal : 9
-Program ID : [Unique SPL Token Program ID]
+Decimal      : 9
+Contract Adress: xxxx
+Program ID   : TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb
 Mint Address : [Unique address where BCX tokens are minted]
 
 TOKEN DISTRIBUTION :

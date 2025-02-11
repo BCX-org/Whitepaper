@@ -1,33 +1,32 @@
-Token Name : Bitcoin Classic (BCX)
+Token Name     : Bitcoin Classic (BCX)
 Token Standard : SPL Token
-Blockchain : Solana
+Blockchain     : Solana
 
-DESCRIPTION :
+✓ DESCRIPTION
 Bitcoin Classic (BCX) is a utility token designed to facilitate global financial transactions within the Solana ecosystem. BCX leverages Solana's blockchain technology, known for its high transaction speed and low fees.
 
-MAIN FUNCTIONS :
-Payments : BCX can be used for P2P (peer-to-peer) transactions within the Bitcoin Classic ecosystem, allowing users to transact without intermediaries.
+✓ MAIN FUNCTIONS
+Payments       : BCX can be used for P2P (peer-to-peer) transactions within the Bitcoin Classic ecosystem, allowing users to transact without intermediaries.
 Service Access : The token provides access to various services within the ecosystem, including DeFi (Decentralized Finance) services like lending, staking, and yield farming.
-Governance : BCX holders can participate in decision-making regarding the development and direction of the ecosystem through a voting system.
+Governance     : BCX holders can participate in decision-making regarding the development and direction of the ecosystem through a voting system.
 
-TECHNICAL SPECIFICATIONS :
-Total Supply : 21,000,000 BCX
-Decimal      : 9
-Contract Adress: xxxx
-Program ID   : TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb
-Mint Address : [Unique address where BCX tokens are minted]
+✓ TECHNICAL SPECIFICATIONS
+Total Supply     : 21,000,000 BCX
+Decimal          : 9
+Contract Address : xxxx
+Program ID       : TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb
+Mint Address     : xxxx
 
-TOKEN DISTRIBUTION :
-Public Sale : 40%
-Team : 20% (with a 2-year vesting period)
-Advisors : 10%
+✓ TOKEN DISTRIBUTION
+Public Sale           : 40%
+Team                  : 20% (with a 2-year vesting period)
+Advisors              : 10%
 Ecosystem Development : 20%
-Reserve: 10%
 
-ADVANTAGES :
+✓ ADVANTAGES
 Transaction Speed : Utilizing Solana's network speed, BCX transactions can be processed in seconds.
-Low Fees : Very low transaction fees make BCX ideal for microtransactions and daily use.
-Interoperability : Being based on SPL, BCX can be easily integrated with various applications and services on Solana.
+Low Fees          : Very low transaction fees make BCX ideal for microtransactions and daily use.
+Interoperability  : Being based on SPL, BCX can be easily integrated with various applications and services on Solana.
 
-USAGE :
+✓ USAGE
 BCX is designed to be used in various scenarios, from daily payments, staking for rewards, to participating in ecosystem management through voting.

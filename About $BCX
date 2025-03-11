@@ -6,9 +6,9 @@ Blockchain     : Solana
 Bitcoin Classic is an open source peer-to-peer cryptocurrency, offering a fast, secure and low-cost cross-border transaction solution.
 
 ✓ MAIN FUNCTIONS
-Payments       : BCX can be used for P2P (peer-to-peer) transactions within the Bitcoin Classic ecosystem, allowing users to transact without intermediaries.
-Service Access : The token provides access to various services within the ecosystem, including DeFi (Decentralized Finance) services like lending, staking, and yield farming.
-Governance     : BCX holders can participate in decision-making regarding the development and direction of the ecosystem through a voting system.
+  ~ Payments       : BCX can be used for P2P (peer-to-peer) transactions within the Bitcoin Classic ecosystem, allowing users to transact without intermediaries.
+  ~ Service Access : The token provides access to various services within the ecosystem, including DeFi (Decentralized Finance) services like lending, staking, and yield farming.
+  ~ Governance     : BCX holders can participate in decision-making regarding the development and direction of the ecosystem through a voting system.
 
 ✓ TECHNICAL SPECIFICATIONS
 Total Supply     : 21,000,000 BCX
@@ -24,9 +24,9 @@ Social assistance           :  1 %
 Project Developer           :  1 %
 
 ✓ ADVANTAGES
-Transaction Speed : Utilizing Solana's network speed, BCX transactions can be processed in seconds.
-Low Fees          : Very low transaction fees make BCX ideal for microtransactions and daily use.
-Interoperability  : Being based on SPL, BCX can be easily integrated with various applications and services on Solana.
+  ~ Transaction Speed : Utilizing Solana's network speed, BCX transactions can be processed in seconds.
+  ~ Low Fees          : Very low transaction fees make BCX ideal for microtransactions and daily use.
+  ~ Interoperability  : Being based on SPL, BCX can be easily integrated with various applications and services on Solana.
 
 ✓ USAGE
 BCX is designed to be used in various scenarios, from daily payments, staking for rewards, to participating in ecosystem management through voting.

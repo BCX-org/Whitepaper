@@ -1,1 +1,1 @@
-✪ Not Your Keys, Not Your Coins ✪
+✫ Not Your Keys, Not Your Coins ✫

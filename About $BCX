@@ -11,11 +11,11 @@ Bitcoin Classic is an open source peer-to-peer cryptocurrency, offering a fast, 
   ~ Governance     : BCX holders can participate in decision-making regarding the development and direction of the ecosystem through a voting system.
 
 ✓ TECHNICAL SPECIFICATIONS
-Total Supply              :  21,000,000 BCX
-Decimals                  :  9
-ID $BCX (Mint Address)    :  BcCWK2bjPxGKtAexbEoeJBd6qWcfT5cX2Tib85C6BaLU
-Mint and Freeze Authority :  Revoked
-Program ID                :  TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb
+Total Supply              : 21,000,000 BCX
+Decimals                  : 9
+ID $BCX (Mint Address)    : BcCWK2bjPxGKtAexbEoeJBd6qWcfT5cX2Tib85C6BaLU
+Mint and Freeze Authority : Revoked
+Program ID                : TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb
 
 ✓ TOKEN DISTRIBUTION
 Liquidity locked forever    : 95 %

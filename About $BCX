@@ -1,27 +1,24 @@
-Token Name     : Bitcoin Classic (BCX)
-Token Standard : Token-2022 (SPL Token)
-Blockchain     : Solana
-
-✓ DESCRIPTION
-Bitcoin Classic is an open source peer-to-peer cryptocurrency, offering a fast, secure and low-cost cross-border transaction solution.
-
-✓ MAIN FUNCTIONS
-Payments       : BCX can be used for P2P (peer-to-peer) transactions within the Bitcoin Classic ecosystem, allowing users to transact without intermediaries.
-Service Access : The token provides access to various services within the ecosystem, including DeFi (Decentralized Finance) services like lending, staking, and yield farming.
-
-✓ TECHNICAL SPECIFICATIONS
+Token Name       : Bitcoin Classic
+Symbol           : BCX
 Total Supply     : 21,000,000 BCX
 Decimals         : 9
-Token Contract   : BcCWK2bjPxGKtAexbEoeJBd6qWcfT5cX2Tib85C6BaLU
+Token Type       : Hybrid Token
+Blockchain       : Solana
+Token Contract   : xxxx
 Mint Authority   : Revoked
 Freeze Authority : Revoked
 
-✓ TOKEN DISTRIBUTION
-Liquidity locked forever    : 95 %
-Bitcoin Classic Development :  4 %
-Project Developer           :  1 %
+✓ DESCRIPTION
+Bitcoin Classic (BCX) is a Solana-based token designed to integrate the strengths of Bitcoin, such as limited supply and decentralization, with the high transaction speeds and low fees offered by the Solana blockchain. This token combines functionalities as an efficient digital payment tool, a store of value, and an asset with utility within the Decentralized Finance (DeFi) ecosystem. With a maximum supply of 21 million tokens inspired by Bitcoin, BCX provides high scalability for daily transactions while offering long-term value potential. BCX serves as a modern alternative for users seeking a blend of value stability, functionality, and optimal network performance.
 
-✓ ADVANTAGES
-Transaction Speed : Utilizing Solana's network speed, BCX transactions can be processed in seconds.
-Low Fees          : Very low transaction fees make BCX ideal for microtransactions and daily use.
-Interoperability  : Being based on SPL, BCX can be easily integrated with various applications and services on Solana
+✓ KEY FEATURES
+  • Transaction Speed: Leverages Solana technology to process thousands of transactions per second.
+  • Low Fees: Offers significantly reduced gas fees compared to other blockchains.
+  • Interoperability: Compatible with SPL wallets, such as Phantom and Sollet, and integrable into DeFi applications within the Solana ecosystem.
+  • Limited Supply: Capped at 21 million BCX to ensure scarcity and support potential long-term value.
+
+✓ USE CASES
+  • Cross-border peer-to-peer payments with low fees.
+  • Digital store of value as an alternative to Bitcoin on a faster network.
+  • Utilization in staking mechanisms or liquidity provision on Solana-based DeFi platforms.
+  • Digital investment asset with potential value appreciation due to its limited supply.

@@ -8,17 +8,17 @@ Token Contract Address : BcCWK2bjPxGKtAexbEoeJBd6qWcfT5cX2Tib85C6BaLU
 Mint Authority         : Revoked
 Freeze Authority       : Revoked
 
-✓ DESCRIPTION
-Bitcoin Classic (BCX) is a Solana-based token designed to integrate Bitcoin’s strengths, such as limited supply and decentralization, with the high transaction speeds and low fees of the Solana blockchain. It serves as an efficient digital payment tool, a store of value, and a utility asset within the DeFi ecosystem. With a maximum supply of 21 million tokens inspired by Bitcoin, BCX offers scalability for daily transactions and long-term value potential. It provides a modern alternative for users seeking stability, functionality, and optimal network performance.
+✓ Description
+Bitcoin Classic (BCX) is a Solana-based token engineered to combine Bitcoin’s core strengths—limited supply and decentralization—with Solana’s superior transaction speed and cost efficiency. BCX functions as a versatile digital payment solution, a reliable store of value, and a utility asset within the DeFi ecosystem. Inspired by Bitcoin’s cap of 21 million tokens, BCX ensures scalability for everyday transactions while preserving long-term value potential. BCX offers users a contemporary alternative, blending stability, utility, and high-performance networking.
 
-✓ KEY FEATURES
-  • Transaction Speed : Utilizes Solana’s technology to process thousands of transactions per second.
-  • Low Fees          : Offers significantly reduced transaction fees compared to other blockchains.
-  • Interoperability  : Compatible with SPL wallets like Phantom and Sollet, and integrable into DeFi applications within the Solana ecosystem.
-  • Limited Supply    : Capped at 21 million BCX to ensure scarcity and support long-term value potential.
+✓ Key Features
+  • High Transaction Speed    : Harnesses Solana’s technology to process thousands of transactions per second.
+  • Minimal Fees              : Delivers significantly lower transaction costs compared to other blockchains.
+  • Seamless Interoperability : Integrates with SPL wallets like Phantom and Sollet, and supports DeFi applications on Solana.
+  • Fixed Supply              : Limited to 21 million BCX, promoting scarcity and potential value growth.
 
-✓ USE CASES
-  • A tool for cross-border peer-to-peer payments with low fees.
-  • A digital store of value as an alternative to Bitcoin on a faster network.
-  • Use in staking mechanisms or liquidity provision on Solana-based DeFi platforms.
-  • A digital investment asset with potential value appreciation due to its limited supply.
+✓ Use Cases
+  • Efficient cross-border peer-to-peer payments with minimal fees.
+  • A digital store of value, enhancing Bitcoin’s model with a faster network.
+  • Participation in staking or liquidity provision on Solana-based DeFi platforms.
+  • An investment asset with growth potential driven by its capped supply.
